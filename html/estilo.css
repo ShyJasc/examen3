@@ -1,0 +1,62 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.nav {
+    border-radius: 3px;
+    margin-left: 130px;
+    margin-right: 40px;
+    width: 80%;
+    height: 80px;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(255, 1, 1);
+    font-size: 23px;
+}
+
+label {
+    text-align: center;
+    color: rgb(20, 53, 98);
+    font-size: 20px;
+}
+
+.botones {
+    width: 40%;
+    height: 40%;
+    border-right: 6px solid black;
+    border-left: 6px solid black;
+    border-top: 6px solid black;
+    border-block-end: 6px solid black;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+.formulario {
+    width: 40%;
+    border-right: 6px solid rgb(21, 80, 122);
+    border-left: 6px solid rgb(21, 80, 122);
+    border-top: 6px solid rgb(21, 80, 122);
+    border-block-end: 6px solid rgb(21, 80, 122);
+    padding: 10px;
+    margin: 0 auto;
+}
+
+.b1 {
+    width: 250px;
+    height: 50px;
+    border-radius: 4px;
+    font-size: 20px;
+    background-color: #b4ffd6;
+    border: 2px solid #afffba;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.589);
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+}
+
+.b1:hover {
+    background-color: #8ffff4;
+    color: rgb(255, 0, 0);
+}

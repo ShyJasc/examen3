@@ -1,0 +1,23 @@
+{
+    "name": "apirest_exam3_jasc",
+    "version": "1.0.0",
+    "description": "Examen 3 APIREST - Jasc",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Jorge Armando Salinas Cuevas",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.2"
+    },
+    "devDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ShyJasc/examen3.git"
+    },
+    "bugs": {
+        "url": "https://github.com/ShyJasc/examen3/issues"
+    },
+    "homepage": "https://github.com/ShyJasc/examen3#readme"
+}
